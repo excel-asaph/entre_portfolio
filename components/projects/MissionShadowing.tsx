@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import FadeIn from '../FadeIn';
-import { ArrowLeft, Clock, MapPin, Target, MessageSquare, Brain, Activity, ChevronRight, BookOpen, Lightbulb, Users, Video } from 'lucide-react';
+import { ArrowLeft, Clock, MapPin, Target, Brain, Activity, BookOpen, Lightbulb, Users, Video } from 'lucide-react';
 
 interface ProjectDetailProps {
   onBack: () => void;

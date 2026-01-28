@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import FadeIn from '../FadeIn';
-import { ArrowLeft, Clock, Target, Users, Smartphone, Heart, BarChart, CheckCircle, BookOpen, Globe, MessageCircle, Instagram } from 'lucide-react';
+import { ArrowLeft, Clock, Target, Users, Heart, CheckCircle, BookOpen, Globe, MessageCircle, Instagram } from 'lucide-react';
 
 interface KuzaWellnessProps {
   onBack: () => void;

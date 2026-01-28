@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import FadeIn from '../FadeIn';
-import { ArrowLeft, Clock, Target, Activity, BookOpen, BarChart2, PieChart, Users, FileText, Globe, TrendingDown, Info } from 'lucide-react';
+import { ArrowLeft, Clock, Target, BookOpen, BarChart2, Users, FileText, Globe } from 'lucide-react';
 
 interface ChildMortalityProps {
   onBack: () => void;
